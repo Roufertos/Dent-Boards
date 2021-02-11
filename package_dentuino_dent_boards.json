@@ -16,8 +16,8 @@
             "category": "Contributed",
             "url": "https://github.com/Roufertos/Dent-boards/archive/v1.0.tar.gz",
             "archiveFileName": "v1.0.tar.gz",
-            "checksum": "SHA-256:5162d72a581b5725e4d4ed7a8c8af8d2f95424aef7938825dc3ee5e24010407d",
-            "size": "3968069",
+            "checksum": "SHA-256:773717512f2f67fda0bd62f2a6914fed065ab5dddba20eb217ef10b1c3efb47c",
+            "size": "3885736",
             "boards": [
               { "name": "Farmer 42"}
             
