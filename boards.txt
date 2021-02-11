@@ -15,9 +15,9 @@
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 
-# Arduino MKR NB 1500
+# Arduino Farmer 42
 # --------------------
-frmr42.name=Dent F21
+frmr42.name=Farmer 42
 frmr42.vid.0=0x2341
 frmr42.pid.0=0x8055
 frmr42.vid.1=0x2341
