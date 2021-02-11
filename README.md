@@ -11,7 +11,7 @@ Just open the "Boards Manager" and install the package called:
 "Arduino SAMD Boards (32-bit ARM Cortex-M0+)"
 
  1. Open the **Preferences** of the Arduino IDE.
-  2. Add this URL `http://downloads.arduino.cc/Hourly/samd/package_samd-hourly-build_index.json` in the **Additional Boards Manager URLs** field, and click OK.
+  2. Add this URL `package_dentuino_dent_boards.json` in the **Additional Boards Manager URLs** field, and click OK.
   3. Open the **Boards Manager** (menu Tools->Board->Board Manager...)
   4. Install **Arduino SAMD core - Hourly build**
   5. Select one of the boards under **SAMD Hourly build XX** in Tools->Board menu
