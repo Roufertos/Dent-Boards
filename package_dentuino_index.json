@@ -10,14 +10,14 @@
         },
           "platforms": [
           {
-            "name": "Dent Git Boards",
+            "name": "Dent Boards",
             "architecture": "samd",
             "version": "1.0.0",
             "category": "Contributed",
             "url": "https://github.com/Roufertos/Dent-boards/archive/v1.0.tar.gz",
             "archiveFileName": "Dent_boards-1.0.tar.gz",
-            "checksum": "SHA-256:4db280cd97fa45d0613611383a2407c876c1848dfef68f4d2ad51ca54b8e9697",
-            "size": "3886251",
+            "checksum": "SHA-256:22f095b44132dc02041b70b9c77d6b7ae2a353a7f1605649362e8f7f8b1e288b",
+            "size": "3913426",
             "boards": [
               { "name": "Farmer 42"}
             
